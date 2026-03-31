@@ -8,7 +8,7 @@
 
 📍 The project is divided into five tasks, each covering an important aspect of digital literacy. All tasks are organized in this repository with proper documentation and supporting files.
 
-📂 **Repository Structure report** → Final project report (PDF/DOCX) task-1-presentation/ → Infographic (Canva/Prezi) task-2-portfolio/ → Screenshots of GitHub, LinkedIn, Kaggle profiles task-3-platforms/ → Coding platform proof + Google Form screenshots task-4-email-etiquette/ → Email drafts + social media checklist task-5-cybercrime/ → Case study + prevention checklist 📝 Task Summary   
+📂 **Repository Structure report** → Final project report (PDF/DOCX) task-1-presentation/ → Infographic (Canva/Prezi) task-2-portfolio/ → Screenshots of GitHub, LinkedIn, Kaggle profiles task-3-platforms/ → Coding platform proof + Google Form screenshots task-4-email-etiquette/ → Email drafts + social media checklist task-5-cybercrime/ → Case study + prevention checklist 📝 Task Summary.     
   
 🔹 **Task 1:** Digital Literacy Infographic Created an infographic using Canva covering digital literacy, safe internet practices, and professional online presence.
 
